@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20688881.svg)](https://doi.org/10.5281/zenodo.20688881)
+
 # Unsupervised Anomaly Detection for Industrial IoT Sensors
 
 Master thesis project — Frankfurt School of Finance and Management
